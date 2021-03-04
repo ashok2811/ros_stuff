@@ -1,0 +1,2 @@
+robot_setup_tf:rplidar_ros:slam_gmapping/gmapping:slam_gmapping/slam_gmapping:urdf_tutorial
+-DCATKIN_DEVEL_PREFIX=/home/ashok/robot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ashok/robot_ws/install -G Unix Makefiles
